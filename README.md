@@ -17,12 +17,10 @@ A counter strike 2 config with default spawns to practice your timing or insta s
   After loading the map, pick T or CT and open console and type `exec MapSpawnsPrt/Spawn`.
 
 - **Step 3:**
-  Then you have to match the map you are on with the config, for that press the key `HOME` till it matches on the chat.
+  Match the map you are in with the config, for that press the key `HOME` till it matches on the chat.
 
 - **Step 4:**
-  Finally press `END` to choose between T or CT and press `PAGEUP` or `PAGEDOWN` to change spawns.
-
-- **Done!**
+  Press `END` to choose between T or CT and press `PAGEUP` or `PAGEDOWN` to change spawns.
 
 ## Default Keybinds
 >  -  **Home:** Rotate between maps.
