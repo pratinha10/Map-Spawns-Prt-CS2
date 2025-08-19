@@ -10,11 +10,21 @@ A counter strike 2 config with default spawns to practice your timing or insta s
 - **Done!**
 
 ## How to use the config?
-Open **CS2** and **start a normal practice map** on the map you wanna practice.
-After loading the map, pick T or CT and open console and type `exec MapSpawnsPrt/Spawn`.
-Then you have to match the map you are on with the config, for that press the key `HOME` till it matches on the chat. Finally press `END` to choose between T or CT and press `PAGEUP` or `PAGEDOWN` to change spawns.
+- **Step 1:**
+  Open **CS2** and **start a normal practice map** on the map you wanna practice.	
 
->  Default Keybinds
+- **Step 2:**
+  After loading the map, pick T or CT and open console and type `exec MapSpawnsPrt/Spawn`.
+
+- **Step 3:**
+  Then you have to match the map you are on with the config, for that press the key `HOME` till it matches on the chat.
+
+- **Step 4:**
+  Finally press `END` to choose between T or CT and press `PAGEUP` or `PAGEDOWN` to change spawns.
+
+- **Done!**
+
+## Default Keybinds
 >  -  **Home:** Rotate between maps.
 >  -  **End:** Set positions T or CT.
 >  -  **Page Up:** Set next spawn position.
